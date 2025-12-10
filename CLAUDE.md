@@ -1,3 +1,7 @@
+<!-- SEMO Framework -->
+> **SEMO** = "Semicolon Orchestrate" - AI 에이전트 오케스트레이션 프레임워크
+> (이전 명칭: SAX - Semicolon AI Transformation)
+
 # SAX-Infra Package Configuration
 
 > 인프라, CI/CD, DevOps 작업을 위한 SAX 패키지
